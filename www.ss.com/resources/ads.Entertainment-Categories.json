@@ -1,0 +1,103 @@
+[
+   {
+      "head":"Hobby",
+      "values":[
+         {
+            "name":"Art",
+            "size":"23"
+         },
+         {
+            "name":"Astronomy",
+            "size":"9"
+         },
+         {
+            "name":"Cinema",
+            "size":"12"
+         },
+         {
+            "name":"Floristics",
+            "size":"27"
+         },
+         {
+            "name":"Handmade products",
+            "size":"1063"
+         },
+         {
+            "name":"Metaldetectors and treasure finding",
+            "size":"210"
+         },
+         {
+            "name":"Needlework and beads",
+            "size":"28"
+         },
+         {
+            "name":"Painting, drawing",
+            "size":"67"
+         },
+         {
+            "name":"Radio-controlled models",
+            "size":"231"
+         },
+         {
+            "name":"Sewing, knitting, embroidery",
+            "size":"128"
+         },
+         {
+            "name":"Smart house, Arduino, Raspberry PI",
+            "size":"13"
+         },
+         {
+            "name":"Other",
+            "size":"12"
+         }
+      ]
+   },
+   {
+      "head":"Collecting",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Tickets, concerts, where to go",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Music, instrument, education",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Books",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Sport, recreation",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Hunting, fishing",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Tourism",
+      "values":[
+
+      ]
+   },
+   {
+      "head":"Other",
+      "values":[
+
+      ]
+   }
+]

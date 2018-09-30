@@ -1,0 +1,22 @@
+{
+    "name": "evo-gaming-test-project",
+    "version": "0.0.1",
+    "author": {
+        "name": "Oleksii Maksymenko",
+        "email": "korv.qa@gmail.com"
+    },
+    "devDependencies": {
+        "protractor-jasmine2-html-reporter": "",
+        "jasmine-reporters": "",
+        "protractor": ""
+    },
+    "scripts": {
+        "webdriver-manager": "./node_modules/protractor/bin/webdriver-manager",
+        "protractor": "./node_modules/protractor/bin/protractor",
+        "configure": "webdriver-manager update",
+        "e2e-tests": "protractor --suite e2e_suite",
+        "func-tests": "protractor --suite func_suite",
+        "all-tests": "protractor --suite run_all",
+        "all-tests-doc": "protractor protractor-docker.conf.js --suite run_all"
+    }
+}
